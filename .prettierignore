@@ -1,0 +1,9 @@
+/node_modules
+/app/*
+/dist/**
+.husky/*
+.prettierignore
+/src/fonts/*
+*.jsc
+.gitignore
+.eslintignore

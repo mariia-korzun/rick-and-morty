@@ -1,6 +1,10 @@
 .App {
+  min-height: 100vh;
   text-align: center;
-}
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url("portal.gif");}
 
 .App-logo {
   height: 40vmin;
